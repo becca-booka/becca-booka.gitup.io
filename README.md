@@ -9,6 +9,7 @@ In this task we had to create a CV like webpage using html. The goal of this tas
 To install this project you will need the following:
 * Internet connection
 * A code editor, such as [Studio Visual Code](https://code.visualstudio.com/download)
+* git, you can download it [here](https://git-scm.com/downloads)
 
 #### _**Usage**_
 This project is nothing fancy, it was created so I could get used to using basic html. The following screenshots are to show what the webpage is supposed to look like when deployed.
